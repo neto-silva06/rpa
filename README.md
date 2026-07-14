@@ -1,2 +1,2 @@
 # rpa
-RPA em Python para automatizar processo de contas a pagar.
+RPA em Python para automatizar processos manuais.
